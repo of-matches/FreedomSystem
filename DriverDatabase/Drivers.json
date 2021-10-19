@@ -1,0 +1,54 @@
+[
+    {
+        "Type": "Component",
+        "Nominal Diameter (Inch)": 1.25,
+        "Manufacturer": "Dayton Audio",
+        "Series": "Reference Series",
+        "Model": "RST28F-4",
+        "Impedance (Ohm)": 4,
+        "Sensitivity (dB at 1W/1M)": 93.5,
+        "Frequency response": {
+            "Frequency Response (Lower Bound)": 1400,
+            "Frequency Response (Upper Bound)": 20000
+        },
+        "Power Handling RMS (W)": 80
+    },
+    {
+        "Type": "Component",
+        "Nominal Diameter (Inch)": 2,
+        "Manufacturer": "Dayton Audio",
+        "Series": "Reference Series",
+        "Model": "RS52FN-8",
+        "Impedance (Ohm)": 8,
+        "Sensitivity (dB at 1W/1M)": 90,
+        "Frequency response": {
+            "Frequency Response (Lower Bound)": 500,
+            "Frequency Response (Upper Bound)": 8000
+        },
+        "Power Handling RMS (W)": 60
+    },
+    {
+        "Type": "Component",
+        "Nominal Diameter (Inch)": 15,
+        "Manufacturer": "Dayton Audio",
+        "Series": "Reference Series",
+        "Model": "RSS390HF-4",
+        "Impedance (Ohm)": 4,
+        "Sensitivity (dB at 1W/1M)": 91.2,
+        "Frequency response": {
+            "Frequency Response (Lower Bound)": 18,
+            "Frequency Response (Upper Bound)": 800
+        },
+        "Power Handling RMS (W)": 500
+    },
+    {
+        "id": "2",
+        "firstName": "Mary",
+        "lastName": "Peterson"
+    },
+    {
+        "id": "3",
+        "firstName": "George",
+        "lastName": "Hansen"
+    }
+]
