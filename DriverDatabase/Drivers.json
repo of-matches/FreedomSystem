@@ -1,14 +1,14 @@
 [
     {
         "Type": "Component",
-        "Nominal Diameter (Inch)": 1.25,
+        "Nominal Diameter (Inch)": 1.125,
         "Manufacturer": "Dayton Audio",
         "Series": "Reference Series",
         "Model": "RST28F-4",
         "Impedance (Ohm)": 4,
         "Sensitivity (dB at 1W/1M)": 93.5,
         "Frequency response": {
-            "Frequency Response (Lower Bound)": 1400,
+            "Frequency Response (Lower Bound)": 5000,
             "Frequency Response (Upper Bound)": 20000
         },
         "Power Handling RMS (W)": 80
@@ -29,6 +29,90 @@
     },
     {
         "Type": "Component",
+        "Nominal Diameter (Inch)": 4,
+        "Manufacturer": "Dayton Audio",
+        "Series": "Reference Series",
+        "Model": "RS100P-4",
+        "Impedance (Ohm)": 4,
+        "Sensitivity (dB at 1W/1M)": 88.5,
+        "Frequency response": {
+            "Frequency Response (Lower Bound)": 85,
+            "Frequency Response (Upper Bound)": 1000
+        },
+        "Power Handling RMS (W)": 30
+    },
+    {
+        "Type": "Component",
+        "Nominal Diameter (Inch)": 5,
+        "Manufacturer": "Dayton Audio",
+        "Series": "Reference Series",
+        "Model": "RS125P-4",
+        "Impedance (Ohm)": 4,
+        "Sensitivity (dB at 1W/1M)": 90,
+        "Frequency response": {
+            "Frequency Response (Lower Bound)": 70,
+            "Frequency Response (Upper Bound)": 1000
+        },
+        "Power Handling RMS (W)": 30
+    },
+    {
+        "Type": "Component",
+        "Nominal Diameter (Inch)": 7,
+        "Manufacturer": "Dayton Audio",
+        "Series": "Reference Series",
+        "Model": "RS180P-4",
+        "Impedance (Ohm)": 4,
+        "Sensitivity (dB at 1W/1M)": 90.8,
+        "Frequency response": {
+            "Frequency Response (Lower Bound)": 35,
+            "Frequency Response (Upper Bound)": 8000
+        },
+        "Power Handling RMS (W)": 60
+    },
+    {
+        "Type": "Component",
+        "Nominal Diameter (Inch)": 8,
+        "Manufacturer": "Dayton Audio",
+        "Series": "Reference Series",
+        "Model": "RS225-4",
+        "Impedance (Ohm)": 4,
+        "Sensitivity (dB at 1W/1M)": 91,
+        "Frequency response": {
+            "Frequency Response (Lower Bound)": 90,
+            "Frequency Response (Upper Bound)": 2000
+        },
+        "Power Handling RMS (W)": 60
+    },
+    {
+        "Type": "Component",
+        "Nominal Diameter (Inch)": 10,
+        "Manufacturer": "Dayton Audio",
+        "Series": "Reference Series",
+        "Model": "RS270P-4A",
+        "Impedance (Ohm)": 4,
+        "Sensitivity (dB at 1W/1M)": 90.9,
+        "Frequency response": {
+            "Frequency Response (Lower Bound)": 23,
+            "Frequency Response (Upper Bound)": 6000
+        },
+        "Power Handling RMS (W)": 100
+    },
+    {
+        "Type": "Component",
+        "Nominal Diameter (Inch)": 7,
+        "Manufacturer": "Dayton Audio",
+        "Series": "Reference Series",
+        "Model": "RS180P-4",
+        "Impedance (Ohm)": 4,
+        "Sensitivity (dB at 1W/1M)": 90.8,
+        "Frequency response": {
+            "Frequency Response (Lower Bound)": 35,
+            "Frequency Response (Upper Bound)": 8000
+        },
+        "Power Handling RMS (W)": 60
+    },
+    {
+        "Type": "Component",
         "Nominal Diameter (Inch)": 15,
         "Manufacturer": "Dayton Audio",
         "Series": "Reference Series",
@@ -40,15 +124,5 @@
             "Frequency Response (Upper Bound)": 800
         },
         "Power Handling RMS (W)": 500
-    },
-    {
-        "id": "2",
-        "firstName": "Mary",
-        "lastName": "Peterson"
-    },
-    {
-        "id": "3",
-        "firstName": "George",
-        "lastName": "Hansen"
     }
 ]
