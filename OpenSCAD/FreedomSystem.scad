@@ -38,11 +38,11 @@ module Horn() {
     rotate([0, 60, 0])
         cube([$materialThickness, 110, $hornLength1400Hz]);
     
-    translate([-($hornThroatRadius1400Hz), -55, 6]) 
+    translate([-($hornThroatRadius1400Hz), -55, 6])
     rotate([0, -15, 0])
         cube([$materialThickness, 110, $hornLength1400Hz]);
     
-    translate([($hornThroatRadius1400Hz+16), -55, 6])
+    translate([-($hornThroatRadius1400Hz+16), -55, 6])
     rotate([0, -30, 0])
         cube([$materialThickness, 110, $hornLength1400Hz]);
         
