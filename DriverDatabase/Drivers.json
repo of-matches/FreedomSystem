@@ -1,6 +1,26 @@
 [
     {
         "Type": "Component",
+        "Nominal Diameter (Inch)": 1,
+        "Manufacturer": "ScanSpeak",
+        "Series": "Discovery",
+        "Model": "R2604/833000",
+        "Impedance (Ohm)": 4,
+        "Sensitivity (dB at 1W/1M)": 92,
+        "Frequency response": {
+            "Manufacturer": {
+                "Frequency Response (Lower Bound)": 2500,
+                "Frequency Response (Upper Bound)": 30000
+            },
+            "Even": {
+                "Frequency Response (Lower Bound)": 2500,
+                "Frequency Response (Upper Bound)": 20000
+            }
+        },
+        "Power Handling RMS (W)": 100
+    },
+    {
+        "Type": "Component",
         "Nominal Diameter (Inch)": 1.125,
         "Manufacturer": "Dayton Audio",
         "Series": "Reference Series",
@@ -8,10 +28,36 @@
         "Impedance (Ohm)": 4,
         "Sensitivity (dB at 1W/1M)": 93.5,
         "Frequency response": {
-            "Frequency Response (Lower Bound)": 5000,
-            "Frequency Response (Upper Bound)": 20000
+            "Manufacturer": {
+                "Frequency Response (Lower Bound)": 1400,
+                "Frequency Response (Upper Bound)": 20000
+            },
+            "Even": {
+                "Frequency Response (Lower Bound)": 1400,
+                "Frequency Response (Upper Bound)": 20000            
+            }
         },
         "Power Handling RMS (W)": 80
+    },
+    {
+        "Type": "Component",
+        "Nominal Diameter (Inch)": 6,
+        "Manufacturer": "ScanSpeak",
+        "Series": "Discovery",
+        "Model": "15M/4624G00",
+        "Impedance (Ohm)": 4,
+        "Sensitivity (dB at 1W/1M)": 92,
+        "Frequency response": {
+            "Manufacturer": {
+                "Frequency Response (Lower Bound)": 150,
+                "Frequency Response (Upper Bound)": 10000
+            },
+            "Even": {
+                "Frequency Response (Lower Bound)": 200,
+                "Frequency Response (Upper Bound)": 3000
+            }
+        },
+        "Power Handling RMS (W)": 75
     },
     {
         "Type": "Component",
@@ -22,24 +68,16 @@
         "Impedance (Ohm)": 4,
         "Sensitivity (dB at 1W/1M)": 91.8,
         "Frequency response": {
-            "Frequency Response (Lower Bound)": 48,
-            "Frequency Response (Upper Bound)": 4000
+            "Manufacturer": {
+                "Frequency Response (Lower Bound)": 48,
+                "Frequency Response (Upper Bound)": 4000
+            },
+            "Even": {
+                "Frequency Response (Lower Bound)": 200,
+                "Frequency Response (Upper Bound)": 3000
+            }
         },
         "Power Handling RMS (W)": 40
-    },
-    {
-        "Type": "Component",
-        "Nominal Diameter (Inch)": 7,
-        "Manufacturer": "Dayton Audio",
-        "Series": "Reference Series",
-        "Model": "RS180P-4",
-        "Impedance (Ohm)": 4,
-        "Sensitivity (dB at 1W/1M)": 90.8,
-        "Frequency response": {
-            "Frequency Response (Lower Bound)": 35,
-            "Frequency Response (Upper Bound)": 8000
-        },
-        "Power Handling RMS (W)": 60
     },
     {
         "Type": "Component",
@@ -56,10 +94,10 @@
             },
             "Even": {
                 "Frequency Response (Lower Bound)": 70,
-                "Frequency Response (Upper Bound)": 700
+                "Frequency Response (Upper Bound)": 400
             }
         },
-        "Power Handling RMS (W)": 60
+        "Power Handling RMS (W)": 80
     },
     {
         "Type": "Component",
